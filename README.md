@@ -15,7 +15,7 @@
 - **Bulk Import:** Add multiple students via CSV file.
 - **System Logs:** Tracks every login and action for security.
 
-- ### 👨‍🏫 Clerk Panel
+### 👨‍🏫 Clerk Panel
 - **Dashboard** View Total Students/Teachers/Staff and Present Teachers.
 - **Teacher's Attendance:** Mark daily attendance (Present/Absent).
 - **Manage Staff:** Manage Lower staff like Peon/Sweeper/Security Guard.
@@ -100,10 +100,10 @@ Use these accounts to test the system:
 
 ### 👨‍💻 Developed By
 **Group Members:**
- **1. Muhammad Musawar**
- **2. Muhammad Paryal**
- **3. Shahriyar Ahmed**
- **4. Zafar Abbas**
+1. Muhammad Musawar
+2. Muhammad Paryal
+3. Shahriyar Ahmed
+4. Zafar Abbas
 ## Software Engineering Students
 
 
