@@ -15,6 +15,13 @@
 - **Bulk Import:** Add multiple students via CSV file.
 - **System Logs:** Tracks every login and action for security.
 
+- ### 👨‍🏫 Clerk Panel
+- **Dashboard** View Total Students/Teachers/Staff and Present Teachers.
+- **Teacher's Attendance:** Mark daily attendance (Present/Absent).
+- **Manage Staff:** Manage Lower staff like Peon/Sweeper/Security Guard.
+- **Reset Password:** **Reset Password of any Student If student forget his password.
+- **Print Report:** Generate a Report of Any Student/Batch/Teacher/Staff with his personal details in the form of (PDF, Word, other).
+
 ### 👨‍🏫 Teacher Panel
 - **Course Management:** View assigned subjects and batches.
 - **Smart Attendance:** Mark daily attendance (Present/Absent/Leave).
@@ -25,6 +32,7 @@
 - **Profile:** View personal details and enrollment info.
 - **Result Card:** Check marks and grades for assigned subjects.
 - **Attendance Status:** View attendance percentage.
+  
 
 ---
 
@@ -67,27 +75,27 @@ Use these accounts to test the system:
 | Role | Username | Password |
 |------|----------|----------|
 | **Admin (HOD)** | `hod@quest.edu.pk` | `12345` |
-| **Teacher** | `clerk@quest.edu.pk` | `12345` |
+| **Clerk** | `clerk@quest.edu.pk` | `12345` |
+| **Teacher** | `name@quest.edu.pk` | `12345` |
 | **Student** | `24SW01` | `12345` |
+
 
 ---
 
 ## 📸 Screenshots
 
 ---
-<img width="432" height="570" alt="Login" src="https://github.com/user-attachments/assets/c1aeb908-94cf-48bd-8898-ef23a8bf6c6f" />
-<img width="419" height="609" alt="Invalid Username" src="https://github.com/user-attachments/assets/4538fe26-b01f-4e94-8304-3b4454a289e2" />
-<img width="1364" height="632" alt="HOD Panel" src="https://github.com/user-attachments/assets/ae273b94-3e30-4fc5-a683-f29b68889125" />
-<img width="1363" height="631" alt="Clerk Panel" src="https://github.com/user-attachments/assets/f1791a15-eb50-4949-b3cd-6d8951d8f1d9" />
-<img width="1343" height="399" alt="Print Report" src="https://github.com/user-attachments/assets/51a1854a-0f3a-48fc-8ef7-b2a82be52308" />
-<img width="1360" height="632" alt="Teacher Panel" src="https://github.com/user-attachments/assets/9f5e7443-0708-4251-8432-8aa2b0e0a6a0" />
-<img width="1343" height="353" alt="Manage Courses" src="https://github.com/user-attachments/assets/580661da-20cb-432a-8ba4-0a8aa636897f" />
-<img width="1075" height="54" alt="Sessional Marks (Valid)" src="https://github.com/user-attachments/assets/1a516aa1-5a15-4a8c-8a7e-1d46f7fa6573" />
-<img width="1076" height="89" alt="Sessional Marks (Invalid)" src="https://github.com/user-attachments/assets/e86c710b-5d94-4278-a88f-af79ab51435e" />
-<img width="1357" height="626" alt="Student Panel" src="https://github.com/user-attachments/assets/23d3263f-762c-4df1-8df3-c050a1e52aa3" />
-<img width="1358" height="630" alt="Student Marks" src="https://github.com/user-attachments/assets/a9ce4647-176f-4b2d-bd0d-c7ae325c1de9" />
-
-
+<img width="432" height="570" alt="Login" src="https://github.com/user-attachments/assets/e05ebf10-e69f-457e-ad1e-c5bdd8c01718" />
+<img width="419" height="609" alt="Invalid Username" src="https://github.com/user-attachments/assets/09211c05-018a-40b5-8319-dd3e6ae90e8b" />
+<img width="1364" height="632" alt="HOD Panel" src="https://github.com/user-attachments/assets/0376053a-71cb-4a5b-a6eb-49c8678643b7" />
+<img width="1363" height="631" alt="Clerk Panel" src="https://github.com/user-attachments/assets/cccc6834-42aa-46a2-a873-7dd80677249c" />
+<img width="1343" height="399" alt="Print Report" src="https://github.com/user-attachments/assets/e9452771-e7b0-47c8-8cc7-b9ca5c0a737a" />
+<img width="1360" height="632" alt="Teacher Panel" src="https://github.com/user-attachments/assets/2f2913bf-59d9-4aa1-9e39-1869154b9d8c" />
+<img width="1075" height="54" alt="Sessional Marks (Valid)" src="https://github.com/user-attachments/assets/7466ec51-8ff5-4269-9ec8-28c7208f1319" />
+<img width="1076" height="89" alt="Sessional Marks (Invalid)" src="https://github.com/user-attachments/assets/71a02802-d675-4492-b424-f5335bbdaf54" />
+<img width="1343" height="353" alt="Manage Courses" src="https://github.com/user-attachments/assets/fc947ed1-2f34-4fc9-9f72-bb3a608461aa" />
+<img width="1357" height="626" alt="Student Panel" src="https://github.com/user-attachments/assets/6cd678d4-1b10-4464-a3be-b5d15cafe226" />
+<img width="1358" height="630" alt="Student Marks" src="https://github.com/user-attachments/assets/0d214117-3e82-4511-8475-41cc64cc2739" />
 
 
 ### 👨‍💻 Developed By
